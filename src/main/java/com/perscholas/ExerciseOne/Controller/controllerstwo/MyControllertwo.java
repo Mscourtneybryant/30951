@@ -1,4 +1,4 @@
-package com.perscholas.ExerciseOne_Rest.controllerstwo;
+package com.perscholas.ExerciseOne.Controller.controllerstwo;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

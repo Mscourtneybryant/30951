@@ -1,4 +1,4 @@
-package com.perscholas.ExerciseOne_Rest.TestController;
+package com.perscholas.ExerciseOne.Controller.controllerstwo.TestController;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
